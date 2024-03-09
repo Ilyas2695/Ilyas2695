@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ilyas</h1>
 <h3 align="center">CS student in Cambridge</h3>
-<img align="right" alt="IT" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
+
 - I’m working on myself
 
 - I’m currently learning **Go Fiber**
