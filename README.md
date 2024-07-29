@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Ilyas</h1>
 <h3 align="center">CS student in Cambridge</h3>
 
-- I’m working on myself
+- Status: currently on Google DeepMind summer internship
 
-- I’m currently learning **Go Fiber**
-
-- I’m open to collaborate on anything you want
+- Happy to collaborate with you
 
 - My email: **ilyas.adilkhan1@gmail.com**
 
