@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ilyas</h1>
 <h3 align="center">CS student in Cambridge</h3>
 
-- Status: currently on Google DeepMind summer internship
+- Status: starting 3rd year of CS
 
 - Happy to collaborate with you
 
