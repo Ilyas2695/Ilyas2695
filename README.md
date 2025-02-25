@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ilyas</h1>
 <h3 align="center">Computer Science student in Cambridge</h3>
 
 - Status: starting 3rd year of CS
