@@ -1,10 +1,8 @@
 <h3 align="center">Computer Science Graduate in Cambridge, UK</h3>
 
-- Status: finished university
+- happy to collaborate
 
-- Happy to collaborate
-
-- My email: **ilyas.adilkhan1@gmail.com**
+- email: **ilyas.adilkhan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
