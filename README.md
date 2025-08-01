@@ -1,8 +1,8 @@
-<h3 align="center">Computer Science student in Cambridge</h3>
+<h3 align="center">Computer Science Graduate in Cambridge, UK</h3>
 
-- Status: starting 3rd year of CS
+- Status: finished university
 
-- Happy to collaborate with you
+- Happy to collaborate
 
 - My email: **ilyas.adilkhan1@gmail.com**
 
